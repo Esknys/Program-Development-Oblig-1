@@ -1,0 +1,11 @@
+Theodor;Schei;theodor@theodor.tv;48351888;26-11-1999;20
+Lars;Larsen;lars@gmail.com;67823535;12-02-2009;11
+Steinar;Sagen;stenar.sagen@yahoo.com;47351264;14-02-1990;30
+Lars;Gregersen;lars@hotmail.com;47733512;23-02-1978;41
+Ola;Halvorsen;haugenstua@gmail.com;09776666;12-02-1997;23
+Kaare;Banan;kb@gmail.com;12345678;15-02-2007;13
+Ola;Haugerud;haugerud@gmail.com;44446666;11-02-2020;0
+Eskil;Nysether;esknys@icloud.com;48183217;13-02-2020;0
+Ola;Nordmann;olanord@iclud.com;55555555;01-02-2020;0
+Ole;Olsen;oleol@outlook.com;55555555;01-02-2020;0
+Åge;Ærvold;aaae@live.no;55555555;31-01-2020;0
